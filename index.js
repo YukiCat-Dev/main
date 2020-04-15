@@ -1,0 +1,1 @@
+ReactDom.render(React.createElement('div'),document.getElementById('index'))
